@@ -5,3 +5,7 @@
 [submodule "prioriactions"]
 	path = prioriactions
 	url = https://github.com/prioriactions/prioriactions
+[submodule "rcbc"]
+	path = rcbc
+	url = https://github.com/dirkschumacher/rcbc
+	registered = false
